@@ -1,0 +1,6 @@
+.idea/
+elm-stuff/
+elm-package.json
+!/elm-package.json
+index.html
+*.js
